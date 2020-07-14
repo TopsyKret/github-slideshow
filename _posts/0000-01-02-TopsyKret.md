@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+To be or to be an Asscave
 Use the left arrow to go back!
